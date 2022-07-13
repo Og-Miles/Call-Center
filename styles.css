@@ -1,0 +1,144 @@
+
+*{
+    viewport-fit: auto;
+}
+body{
+    background-image: url('pexels-anna-shvets-3727469.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    /* width: 2868px;
+    height: 1011px; */
+    /* left: -556px;
+        top: -37px; */
+        background-position: right;
+        background-repeat: no-repeat;
+        background-size: cover;
+        overflow-y: hidden;
+        overflow-x: hidden;
+    }
+
+.mainBackground{
+    position: absolute;
+        background-position: right;
+        background-position-y: 40px;
+        left: -556px;
+        top: -37px;
+        background-position: center no-repeat;
+        background-size: cover;
+}
+.mainview{
+    background-image: url('main\ background\ gradient\ color.svg'); 
+    
+    background-position: right;
+    background-position-y: -20px;
+    background-repeat: no-repeat;
+width: 380px;
+height: 500px;
+background-color: white;
+border-radius: 8px;
+margin-left: 2em;
+margin-top: 6rem;
+padding-top: 2rem;
+}
+h1{
+    
+    background-repeat: no-repeat;
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    text-align: center;
+    padding-top: 16px;
+    margin: 0;
+    font-weight: 700;
+    color: rgb(65, 63, 63);
+      
+}
+.phone{
+    background-image: url("/fluent_call-24-filled.svg");
+    position: absolute;
+        width: 79px;
+        height: 66px;
+        left: 30px;
+        top: 2px;
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+        text-align: center;
+        margin: 0;
+
+    }
+.input{
+    padding: 16px 16px;
+    box-sizing: border-box;
+    
+}
+p{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    /* margin-bottom: 50px; */
+}
+p a{
+    text-decoration: none;
+    color: blue;
+
+}
+.email{
+    padding-bottom: 16px;
+    font-family: 'Poppins', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 15px;
+        letter-spacing: 0.3px;
+        text-transform: uppercase;
+        display: block;
+        padding-bottom: 3em;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        margin-left: 1em;
+}
+.Key{
+    padding-bottom: 16px;
+font-family: 'Poppins', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 15px;
+        letter-spacing: 0.3px;
+        text-transform: uppercase;
+        padding-bottom: 3em;
+        box-sizing: border-box;
+        display: block;
+        margin-left: 1em;
+        
+}
+
+button{
+    align-items: center;
+    text-align: center;
+    width: 345px;
+    height: 36px;
+    background-color: blue;
+    font-size: 16px;
+    display: block;
+    border: none;
+    text-decoration-color: white;
+    color: white;
+    border-radius: 10px;
+    padding: auto;
+    cursor: pointer;
+    margin-left: 2px;
+    margin-right: 2px;
+    font-family: 'Poppins', sans-serif;
+
+}
+input{
+    font-family: 'Poppins', sans-serif;
+    width: 316px;
+    border-style:double;
+    border-color: rgb(199, 175, 166);
+    border-radius: 5px;
+    margin-top: 9px;
+    padding: 2px;
+}
+    
